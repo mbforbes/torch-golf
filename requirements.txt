@@ -1,0 +1,10 @@
+black
+mypy
+tqdm
+rich
+torch
+torchvision
+torchaudio
+matplotlib
+seaborn
+imgcat
